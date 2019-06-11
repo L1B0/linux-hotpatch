@@ -7,7 +7,7 @@
 ## 使用方法
 
 ```
-sudo ./injso pid ./libtemple.so printf newmyprint
+sudo ./injso pid ./libtarget.so printf newmyprint
 ```
 
 ## 参考
